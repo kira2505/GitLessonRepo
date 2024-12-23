@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for index in {1..10}; do
+for index in {11..21}; do
     touch "somefile_$index"
     echo "Index: $index"
 done
